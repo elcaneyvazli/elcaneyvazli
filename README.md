@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Frontend Developer
 ----------------------
 
-<img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47v9zjsupiprw4kc314uzfsyfcoym1i2pru9hebjkc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="1000" height="480" frameBorder="0" align='center' class="giphy-embed" allowFullScreen></img>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Fpa3c4bjl5cWpmejk1dGk2MWowOW9idnFkb3FpMXQ0cTB5eDVlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="1000" height="480" frameBorder="0" align='center' class="giphy-embed" allowFullScreen></img>
 
 As a Frontend Developer, I specialize in crafting engaging user experiences through HTML, CSS, and JavaScript. With expertise in React, Vue, I build scalable and maintainable web applications. I enjoy collaborating with others and staying up-to-date with the latest technologies to deliver top-notch results.
 
