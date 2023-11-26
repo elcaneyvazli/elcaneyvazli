@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Frontend Developer
 ----------------------
 
-<img src="https://tenor.com/bqksy.gif" width="1000" height="480" frameBorder="0" align='center' class="giphy-embed" allowFullScreen></img>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhkZG1panRlN2V2bGR4YTJ4MDEyMHR4ZWRhdHltM3llemU5NDZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="1000" height="480" frameBorder="0" align='center' class="giphy-embed" allowFullScreen></img>
 
 As a Frontend Developer, I specialize in crafting engaging user experiences through HTML, CSS, and JavaScript. With expertise in React, Vue, I build scalable and maintainable web applications. I enjoy collaborating with others and staying up-to-date with the latest technologies to deliver top-notch results.
 
