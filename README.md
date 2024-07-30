@@ -40,3 +40,7 @@ As a Frontend Developer, I specialize in crafting engaging user experiences thro
 <p align="left">
   <a href="http://www.github.com/elcaneyvazli"><img src="https://github-readme-stats.vercel.app/api?username=elcaneyvazli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="elcaneyvazli's GitHub stats" href="https://github.com/elcaneyvazli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcaneyvazli&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=elcaneyvazli&label=Profile%20Views&color=1&icon=1&pretty=false" />
+</a>
