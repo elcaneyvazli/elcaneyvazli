@@ -9,7 +9,7 @@ I'm Frontend Developer
 As a Frontend Developer, I specialize in crafting engaging user experiences through HTML, CSS, and JavaScript. With expertise in React, Vue, I build scalable and maintainable web applications. I enjoy collaborating with others and staying up-to-date with the latest technologies to deliver top-notch results.
 
 * 🌍  I'm based in Azerbaijan
-* 🖥️  See my portfolio at [elcaneyvazli.com](http://elcaneyvazli.com)
+* 🖥️  See my portfolio at [elcann.com](http://elcann.com)
 * ✉️  You can contact me at [elcaneyvazli77@gmail.com](mailto:elcaneyvazli77@gmail.com)
 * 🧠  I'm learning React.Js
 * 🤝  I'm open to collaborating on Frontend developer jobs
