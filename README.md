@@ -12,7 +12,7 @@ As a Frontend Developer, I specialize in crafting engaging user experiences thro
 * 🖥️  See my portfolio at [elcann.com](http://elcann.com)
 * ✉️  You can contact me at [elcaneyvazli77@gmail.com](mailto:elcaneyvazli77@gmail.com)
 * 🧠  I'm learning React.Js
-* 🤝  I'm open to collaborating on Frontend developer jobs
+* 🤝  I'm open to collaborating on Frontend developer and UX/UI jobs
 
 ### Skills
 
